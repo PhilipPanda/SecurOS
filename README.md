@@ -1,4 +1,4 @@
-<h1 align="center"><code>SecurOS</code> secure debian linux machine</h1>
+<h1 align="center"><code>SecurOS</code> secure debian linux operating system</h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/PhilipPanda/SecurOS/main/Pictures/logo.png">
