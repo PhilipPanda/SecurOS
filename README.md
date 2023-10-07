@@ -31,9 +31,12 @@ SecurOS is a Debian 12 based operating system that has been created for pentesti
 <br>
 <h2 align="center">Screenshots</h2>
 
-![image](https://github.com/PhilipPanda/SecurOS/assets/123938029/0be4648c-f798-4780-a75d-12be5eed7cf8)
------
-![image](https://github.com/PhilipPanda/SecurOS/assets/123938029/a05e85a0-3dde-421c-ac06-15664cdcc6f6)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PhilipPanda/SecurOS/main/Pictures/ss2.png">
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PhilipPanda/SecurOS/main/Pictures/ss1.png">
+</p>
 
 
 <br>
