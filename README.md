@@ -22,8 +22,7 @@
 
 <br>
 <h2 align="center">Info</h2>
-
-SecurOS is a Debian 12 based operating system that has been created for pentesting and security.
+SecurOS is an advanced operating system built upon the Debian 12 platform, specifically designed and optimized for the fields of penetration testing (pentesting) and cybersecurity. This specialized operating system is tailored to meet the unique needs and demands of security professionals and ethical hackers who are tasked with identifying vulnerabilities, assessing the robustness of systems, and ensuring the protection of sensitive data.
 <br>
 
 -----
