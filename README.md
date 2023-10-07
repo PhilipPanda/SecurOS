@@ -4,9 +4,13 @@
   <img src="https://raw.githubusercontent.com/PhilipPanda/SecurOS/main/Pictures/logo.png">
 </p>
 
+<h2 align="center">
+  <a href="https://securos.org">Website</a> | <a href="https://templeenterprise.com">Our Company</a> | <a href="https://securos.org">Install</a>
+</h2>
+
 -----
 <br>
-<h2 align="center">Install</h2>
+
 
 **Keep in mind this Operating System is currently in beta. "SecurOS is currently a private distro, public realese will become available later on."**
 
