@@ -1,10 +1,8 @@
 <h1 align="center">SOS - <code>SecurOS</code> secure debian linux machine</h1>
 
-![SecurOS-10-7-2023(1)](https://github.com/PhilipPanda/SecurOS/assets/123938029/a5546e71-8717-42a7-a23c-a883d8f1a593)
-
-<h2 align="center">
-  <a href="https://securos.org">Website</a> | <a href="https://templeenterprise.com ">Our Company</a> | <a href="https://github.com/PhilipPanda/SecurOS ">Install</a>
-</h2>
+<p align="center">
+  <img src="[https://github.com/Flipper-XFW/Xtreme-Firmware/assets/55334727/767a3e1b-a96c-43c8-b58f-a49a533b3bb4](https://raw.githubusercontent.com/PhilipPanda/SecurOS/main/Pictures/logo.png)">
+</p>
 
 -----
 <br>
