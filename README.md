@@ -1,7 +1,7 @@
 <h1 align="center">SOS - <code>SecurOS</code> secure debian linux machine</h1>
 
 <p align="center">
-  <img src="[https://github.com/Flipper-XFW/Xtreme-Firmware/assets/55334727/767a3e1b-a96c-43c8-b58f-a49a533b3bb4](https://raw.githubusercontent.com/PhilipPanda/SecurOS/main/Pictures/logo.png)">
+  <img src="https://raw.githubusercontent.com/PhilipPanda/SecurOS/main/Pictures/logo.png">
 </p>
 
 -----
