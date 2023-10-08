@@ -17,7 +17,8 @@
 <h1 align="center"> For Virtual Machines </h1>
 
 - You need Virtual Box / VMWare / Qemu.
-- Download the ISO / OVA file and set it up in your VM.
+- Download the ISO,
+- Create a new XUbuntu 64bit machine.
 - Recommended 16 core 8 gb ram.
 
 
