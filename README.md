@@ -12,7 +12,7 @@
 <br>
 
 
-**Keep in mind this Operating System is currently in beta.**
+<p align="center">**Keep in mind this Operating System is currently in beta.**</p>
 
 <h1 align="center"> For Virtual Machines </h1>
 - You need Virtual Box / VMWare / Qemu.
