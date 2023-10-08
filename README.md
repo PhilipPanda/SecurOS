@@ -34,12 +34,6 @@ SecurOS is an advanced operating system built upon the Arch platform, specifical
 <br>
 <h2 align="center">Screenshots</h2>
 
-<p align="center">
-  <img src="">
-</p>
-<p align="center">
-  <img src="">
-</p>
 
 <br>
 
