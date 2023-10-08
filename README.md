@@ -21,10 +21,10 @@
 <br>
 
 <h1 align="center"> For Flashing On PC </h1>
-```- You need a usb stick "preferably 8gb".
+- You need a usb stick "preferably 8gb".
 - Download the ISO File.
 - Flash the ISO File using Belena Etcher / Rufus on your usb stick.
-- Recommended 16 core 8 gb ram```
+- Recommended 16 core 8 gb ram
 <br>
 
 -----
