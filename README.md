@@ -30,8 +30,8 @@
 -----
 <h1 align="center"> Default User Information</h1>
 
-- Default username: securos
-- Default password: securos
+`- Default username: securos`
+`- Default password: securos`
 -----
 
 <br>
