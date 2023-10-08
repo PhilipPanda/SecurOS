@@ -12,7 +12,7 @@
 <br>
 
 
-**Keep in mind this Operating System is currently in beta. "SecurOS is currently a private distro, public realese will become available later on."**
+**Keep in mind this Operating System is currently in beta.**
 
 <h1 align="center"> For Virtual Machines </h1>
 - You need Virtual Box / VMWare / Qemu.
