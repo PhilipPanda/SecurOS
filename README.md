@@ -9,7 +9,7 @@
 </h2>
 
 -----
-<br>
+
 
 
 **<p align="center">Keep in mind this Operating System is currently in beta.</p>**
@@ -18,14 +18,14 @@
 - You need Virtual Box / VMWare / Qemu.
 - Download the ISO / OVA file and set it up in your VM.
 - Recommended 16 core 8 gb ram.
-<br>
+
 
 <h1 align="center"> For Flashing On PC </h1>
 - You need a usb stick "preferably 8gb".
 - Download the ISO File.
 - Flash the ISO File using Belena Etcher / Rufus on your usb stick.
 - Recommended 16 core 8 gb ram
-<br>
+
 
 -----
 <h1 align="center"> Default User Information</h1>
