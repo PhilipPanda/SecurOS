@@ -15,7 +15,7 @@
 **Keep in mind this Operating System is currently in beta. "SecurOS is currently a private distro, public realese will become available later on."**
 
 - You need Virtual Box / VMWare / Qemu
-- Download the ISO / OVA file and set it up in your VM
+- Download the ISO / OVA file and set it up in your VM / PC
 - Recommended 16 core 8 gb ram
 
 - Default username: securos
