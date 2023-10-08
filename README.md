@@ -34,13 +34,6 @@ SecurOS is an advanced operating system built upon the Debian 12 platform, speci
 <br>
 <h2 align="center">Screenshots</h2>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PhilipPanda/SecurOS/main/Pictures/ss2.png">
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PhilipPanda/SecurOS/main/Pictures/ss1.png">
-</p>
-
 
 <br>
 
