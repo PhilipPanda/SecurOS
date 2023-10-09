@@ -19,7 +19,7 @@
 - You need Virtual Box / VMWare / Qemu.
 - Download the ISO,
 - Create a new XUbuntu 64bit machine.
-- Recommended 16 core 8 gb ram.
+- Recommended 16 core processor & 8 gb of ram
 
 
 <h1 align="center"> For Flashing On PC </h1>
