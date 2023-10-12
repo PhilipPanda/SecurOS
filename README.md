@@ -18,7 +18,7 @@
 
 - You need Virtual Box / VMWare / Qemu.
 - Download the ISO,
-- Create a new XUbuntu 64bit machine.
+- Create a new Ubuntu 64bit machine.
 - Recommended 16 core processor & 8 gb of ram
 
 
