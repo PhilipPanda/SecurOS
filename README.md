@@ -1,7 +1,7 @@
 <h1 align="center"><code>SecurOS</code> Secure Ubuntu Linux Operating System</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PhilipPanda/SecurOS/main/Images/logo.png">
+  <img src="https://raw.githubusercontent.com/PhilipPanda/SecurOS/main/img/logo.png">
 </p>
 
 <h2 align="center">
@@ -47,10 +47,10 @@ SecurOS is an advanced operating system built upon the Ubuntu platform, specific
 <br>
 <h2 align="center">Screenshots</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PhilipPanda/SecurOS/main/Images/ss1.png">
+  <img src="https://raw.githubusercontent.com/PhilipPanda/SecurOS/main/img/ss1.png">
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PhilipPanda/SecurOS/main/Images/ss2.png">
+  <img src="https://raw.githubusercontent.com/PhilipPanda/SecurOS/main/img/ss2.png">
 </p>
 
 <br>
