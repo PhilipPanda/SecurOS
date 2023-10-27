@@ -50,7 +50,7 @@ SecurOS is an advanced operating system built upon the Ubuntu platform, specific
   <img src="https://raw.githubusercontent.com/PhilipPanda/SecurOS/main/img/ss1.png">
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PhilipPanda/SecurOS/main/img/ss2.png">
+  <img src="https://raw.githubusercontent.com/PhilipPanda/SecurOS/main/img/ss3.png">
 </p>
 
 <br>
