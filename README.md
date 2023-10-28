@@ -1,7 +1,7 @@
 <h1 align="center"><code>SecurOS</code> Secure Ubuntu Linux Operating System</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PhilipPanda/SecurOS/main/img/logo.png">
+  <img src="https://raw.githubusercontent.com/PhilipPanda/SecurOS/main/img/logo-2.png">
 </p>
 
 <h2 align="center">
