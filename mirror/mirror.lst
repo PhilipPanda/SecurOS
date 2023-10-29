@@ -1,0 +1,17 @@
+# SecurOS Ubuntu Mirror List
+# Choose a mirror close to your location for faster downloads.
+
+## Official Ubuntu Mirrors
+deb http://archive.ubuntu.com/ubuntu/ focal main restricted universe multiverse
+deb http://archive.ubuntu.com/ubuntu/ focal-updates main restricted universe multiverse
+deb http://archive.ubuntu.com/ubuntu/ focal-backports main restricted universe multiverse
+deb http://archive.ubuntu.com/ubuntu/ focal-security main restricted universe multiverse
+
+## Regional Ubuntu Mirrors
+# Replace these with mirrors closer to your location if necessary.
+# deb http://us.archive.ubuntu.com/ubuntu/ focal main restricted universe multiverse
+# deb http://us.archive.ubuntu.com/ubuntu/ focal-updates main restricted universe multiverse
+# deb http://us.archive.ubuntu.com/ubuntu/ focal-backports main restricted universe multiverse
+# deb http://us.archive.ubuntu.com/ubuntu/ focal-security main restricted universe multiverse
+
+# Use the mirror that is geographically closest to you.
