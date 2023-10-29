@@ -50,6 +50,8 @@ A9: You can reset your password by booting into recovery mode. Consult the Secur
 
 A10: Your best bet is to contact me here ```contact@templeenterprise.com```
 
+## Other
+
 ### Q11: OMG SecurOS is so ugly theres no themes no icons WTF ?!!
 
 A11: SecurOS was made for security testing not made to look pretty, were not designers. However you can always download themes and icons on xfce4-look.org
