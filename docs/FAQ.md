@@ -56,6 +56,11 @@ A10: Your best bet is to contact me here ```contact@templeenterprise.com```
 
 A11: SecurOS was made for security testing not made to look pretty, were not designers. However you can always download themes and icons on xfce4-look.org
 
-### Q11: So lagy and unoptimized you mf shitty developer.
+### Q12: So lagy and unoptimized you mf shitty developer.
 
 A12: SecurOS is in beta, relax.
+
+### Q13: Where is wallpaper ? i dont see im mentally challenged
+
+
+A13: Go into apperance, desktop, and change the background folder from "pictures" to "backgorunds" :)
