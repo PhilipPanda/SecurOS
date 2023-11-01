@@ -42,25 +42,3 @@
 SecurOS is an advanced operating system built upon the Ubuntu platform, specifically designed and optimized for the fields of penetration testing (pentesting) and cybersecurity. This specialized operating system is tailored to meet the unique needs and demands of security professionals and ethical hackers who are tasked with identifying vulnerabilities, assessing the robustness of systems, and ensuring the protection of sensitive data.
 <br>
 
------
-
-<br>
-<h2 align="center">Screenshots</h2>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PhilipPanda/SecurOS/main/img/ss7.png">
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PhilipPanda/SecurOS/main/img/ss6.png">
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PhilipPanda/SecurOS/main/img/ss5.png">
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PhilipPanda/SecurOS/main/img/ss4.png">
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PhilipPanda/SecurOS/main/img/ss3.png">
-</p>
-
-<br>
-
