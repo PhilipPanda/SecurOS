@@ -1,17 +1,32 @@
-# SecurOS Ubuntu Mirror List
+# SecurOS Mirror List
 # Choose a mirror close to your location for faster downloads.
+# We are using Kali Linuxes mirror list for security ( temporary measure ).
 
-## Official Ubuntu Mirrors
-deb http://archive.ubuntu.com/ubuntu/ focal main restricted universe multiverse
-deb http://archive.ubuntu.com/ubuntu/ focal-updates main restricted universe multiverse
-deb http://archive.ubuntu.com/ubuntu/ focal-backports main restricted universe multiverse
-deb http://archive.ubuntu.com/ubuntu/ focal-security main restricted universe multiverse
-
-## Regional Ubuntu Mirrors
-# Replace these with mirrors closer to your location if necessary.
-# deb http://us.archive.ubuntu.com/ubuntu/ focal main restricted universe multiverse
-# deb http://us.archive.ubuntu.com/ubuntu/ focal-updates main restricted universe multiverse
-# deb http://us.archive.ubuntu.com/ubuntu/ focal-backports main restricted universe multiverse
-# deb http://us.archive.ubuntu.com/ubuntu/ focal-security main restricted universe multiverse
-
-# Use the mirror that is geographically closest to you.
+http://mirror.karneval.cz/pub/linux/kali/ (cz, prio 100)
+http://ftp.halifax.rwth-aachen.de/kali/ (de, prio 400)
+http://mirror.pyratelan.org/kali/ (de, prio 100)
+http://mirrors.dotsrc.org/kali/ (dk, prio 100)
+http://mirror.init7.net/kali/ (ch, prio 100)
+http://mirror.netcologne.de/kali/ (de, prio 100)
+http://mirror1.sox.rs/kali/kali/ (rs, prio 100)
+http://ftp.belnet.be/pub/kali/kali/ (be, prio 200)
+http://ftp.nluug.nl/os/Linux/distr/kali/ (nl, prio 100)
+http://mirror.serverius.net/kali/ (nl, prio 100)
+http://ftp.free.fr/pub/kali/ (fr, prio 200)
+http://ftp.acc.umu.se/mirror/kali.org/kali/ (se, prio 200)
+http://mirror.vinehost.net/kali/ (gb, prio 100)
+http://mirror.cspacehostings.com/kali/ (ee, prio 100)
+Found 13 mirrors in other parts of the world
+http://kali.mirror2.gnc.am/kali/ (am, prio 100)
+http://kali.mirror1.gnc.am/kali/ (am, prio 100)
+http://xsrv.moratelindo.io/kali/ (id, prio 100)
+http://mirrors.jevincanders.net/kali/ (us, prio 100)
+http://mirror.morgan.kr/kali/ (kr, prio 100)
+http://repo.jing.rocks/kali/ (jp, prio 100)
+http://ftp.jaist.ac.jp/pub/Linux/kali/ (jp, prio 100)
+http://kali.darklab.sh/kali/ (us, prio 100)
+http://mirrors.ocf.berkeley.edu/kali/ (us, prio 100)
+http://mirror.lagoon.nc/kali/ (nc, prio 100)
+http://hlzmel.fsmg.org.nz/kali/ (nz, prio 100)
+http://wlglam.fsmg.org.nz/kali/ (nz, prio 100)
+http://mirror.2degrees.nz/kali/ (nz, prio 100)
