@@ -12,7 +12,7 @@
 
 
 
-**<p align="center">Keep in mind this Operating System is currently in beta.</p>**
+**<p align="center">Keep in mind this Operating System is currently in development.</p>**
 
 <h1 align="center"> For Virtual Machines </h1>
 
