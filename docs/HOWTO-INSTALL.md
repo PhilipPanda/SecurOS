@@ -1,6 +1,6 @@
 # SecurOS Installation Guide
 
-This comprehensive guide provides detailed, step-by-step instructions for installing SecurOS, a robust Linux distribution designed for enhanced security.
+This comprehensive guide provides detailed, step-by-step instructions for installing SecurOS.
 
 ## Prerequisites
 
@@ -48,15 +48,13 @@ sudo dd if=secur_os_latest.iso of=/dev/sdX bs=4M status=progress`
 
     6. Proceed by following the on-screen instructions, which include selecting your preferred installation language, keyboard layout, and other initial settings.
 
-    7. Choose the installation type that suits your needs, typically "Install SecurOS" or "Try SecurOS without installing."
+    7. Continue to configure your system, specifying your time zone, creating a user account, and setting your system preferences.
 
-    8. Continue to configure your system, specifying your time zone, creating a user account, and setting your system preferences.
+    8. Select the installation location and, if required, partition your disk according to your preferences.
 
-    9. Select the installation location and, if required, partition your disk according to your preferences.
+    9. Carefully review the installation settings, and when you are satisfied, commence the installation process.
 
-    10. Carefully review the installation settings, and when you are satisfied, commence the installation process.
-
-    11. Upon completion, remove the USB drive (if applicable) and restart your computer.
+    10. Upon completion, remove the USB drive (if applicable) and restart your computer.
 
 ## Post-Installation Setup
 
