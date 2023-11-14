@@ -30,7 +30,7 @@ sudo dd if=secur_os_latest.iso of=/dev/sdX bs=4M status=progress`
 
     2. If you are using a virtualization platform such as VirtualBox, VMware, or QEMU, insert the downloaded ISO file.
 
-    3. Choose the "Ubuntu 64-bit" template in your virtualization software to create a new virtual machine.
+    3. Choose the "Arch 64-bit" template in your virtualization software to create a new virtual machine.
 
     4. Follow the specific steps provided by your virtual machine software to complete the setup.
 
