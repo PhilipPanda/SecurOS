@@ -6,7 +6,7 @@ Here are some common questions and answers related to SecurOS installation and u
 
 ### Q1: What is SecurOS?
 
-A1: SecurOS is a Linux distribution based on Ubuntu that comes pre-installed with pen-testing tools and exploit tools used by security experts.
+A1: SecurOS is a Linux distribution based on Arch that comes pre-installed with pen-testing tools and exploit tools used by security experts.
 
 ### Q2: Is SecurOS free to use?
 
