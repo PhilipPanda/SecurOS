@@ -14,7 +14,7 @@ A2: Yes, SecurOS is open-source and free to use. You can download it from the of
 
 ### Q3: What hardware requirements are there for SecurOS?
 
-A3: SecurOS can run on a wide range of hardware, but for optimal performance, a modern computer or virtual machine with at least 4GB of RAM and a dual-core processor is recommended.
+A3: SecurOS can run on a wide range of hardware, but for optimal performance, a modern computer or virtual machine with at least 6GB of RAM and a 16 core processor is recommended.
 
 ## Installation Questions
 
