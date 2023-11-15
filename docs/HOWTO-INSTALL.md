@@ -7,7 +7,7 @@ This comprehensive guide provides detailed, step-by-step instructions for instal
 Before you embark on the installation journey, ensure you have the following essentials ready:
 
 - A dedicated computer or a virtual machine where you intend to install SecurOS.
-- A USB flash drive with a capacity of at least 8GB or the SecurOS ISO file, which can be obtained from the [official website](https://securos.org).
+- A USB flash drive with a capacity of at least 4GB or the SecurOS ISO file, which can be obtained from the [official website](https://securos.org).
 - Access to your computer's BIOS or UEFI settings to modify the boot order.
 
 ## Installation Steps
