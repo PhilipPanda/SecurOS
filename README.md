@@ -27,7 +27,7 @@
 - You need a usb stick "preferably 4gb".
 - Download the ISO File.
 - Flash the ISO File using Belena Etcher / Rufus on your usb stick.
-- Recommended 16 core processor & 8 gb of ram
+- Recommended 16 core processor & 6 gb of ram
 
 
 -----
