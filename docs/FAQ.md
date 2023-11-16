@@ -34,7 +34,7 @@ A6: Yes, SecurOS can be installed in popular virtualization platforms like Virtu
 
 ### Q7: I encountered an error during installation. What should I do?
 
-A7: If you face errors during installation, please double-check your installation media and ensure that it's not corrupted. You can also consult the SecurOS community for help and post the error message for assistance.
+A7: If you face errors during installation, please double-check your installation media and ensure that it's not corrupted.
 
 ### Q8: How can I update SecurOS after the initial installation?
 
@@ -42,13 +42,13 @@ A8: To update SecurOS, use the package manager for system updates. Open a termin
 
 ### Q9: I forgot my user account password. How can I reset it?
 
-A9: You can reset your password by booting into recovery mode. Consult the SecurOS documentation or seek help from the community for specific instructions.
+A9: You can reset your password by booting into recovery mode.
 
 ## Support and Community
 
 ### Q10: Where can I find more help and resources?
 
-A10: Your best bet is to contact me here ```contact@templeenterprise.com```
+A10: Currently your best bet is to contact me here ```contact@templeenterprise.com```
 
 ## Other
 
@@ -59,8 +59,3 @@ A11: SecurOS was made for security testing not made to look pretty, were not des
 ### Q12: So lagy and unoptimized you mf shitty developer.
 
 A12: SecurOS is in beta, relax.
-
-### Q13: Where is wallpaper ? i dont see im mentally challenged
-
-
-A13: Go into apperance, desktop, and change the background folder from "pictures" to "backgorunds" :)
