@@ -1,8 +1,0 @@
-[Plymouth Theme]
-Name=ZXSpectrum
-Description=ZX Spectrum loading animation
-ModuleName=script
-
-[script]
-ImageDir=/usr/share/plymouth/themes/ZXSpectrum
-ScriptFile=/usr/share/plymouth/themes/ZXSpectrum/ZXSpectrum.script
