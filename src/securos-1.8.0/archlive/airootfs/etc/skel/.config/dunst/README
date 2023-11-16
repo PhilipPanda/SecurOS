@@ -1,0 +1,3 @@
+Here's how to calculate where to position dunst if you want it on the left-hand side
+
+offset = (MONITOR WIDTH - NOTIFICATION WIDTH - OFFSET WIDTH, PIXELS DOWN)
