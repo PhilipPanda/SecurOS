@@ -1,13 +1,13 @@
 # SecurOS Installation Guide
 
-This comprehensive guide provides detailed, step-by-step instructions for installing SecurOS.
+This guide provides detailed, step-by-step instructions for installing SecurOS.
 
 ## Prerequisites
 
-Before you embark on the installation journey, ensure you have the following essentials ready:
+Before the installation, ensure you have the following essentials ready:
 
-- A dedicated computer or a virtual machine where you intend to install SecurOS.
-- A USB flash drive with a capacity of at least 4GB or the SecurOS ISO file, which can be obtained from the [official website](https://securos.org).
+- A computer or a virtual machine where you intend to install SecurOS.
+- A USB flash drive with a capacity of at least 4GB and the SecurOS ISO file, which can be obtained from the [official website](https://securos.org).
 - Access to your computer's BIOS or UEFI settings to modify the boot order.
 
 ## Installation Steps
@@ -44,21 +44,15 @@ sudo dd if=secur_os_latest.iso of=/dev/sdX bs=4M status=progress`
 
     4. Save your changes and exit the BIOS or UEFI settings.
 
-    5. Upon booting from the USB drive or virtual machine, you will encounter the SecurOS installation menu.
+    5. Now boot into SecurOS
 
-    6. Proceed by following the on-screen instructions, which include selecting your preferred installation language, keyboard layout, and other initial settings.
+    6. Select an option from the grub boot loader.
 
-    7. Continue to configure your system, specifying your time zone, creating a user account, and setting your system preferences.
-
-    8. Select the installation location and, if required, partition your disk according to your preferences.
-
-    9. Carefully review the installation settings, and when you are satisfied, commence the installation process.
-
-    10. Upon completion, remove the USB drive (if applicable) and restart your computer.
+    7. Let SecurOS do its thing and you'r ready.
 
 ## Post-Installation Setup
 
-    1. Log in using the user account you created during the installation.
+    1. Log in using the default user account [ Username : securos ] [ Password : securos ]
 
     2. After initial login, update your system using the package manager, and install any essential drivers or software.
 
