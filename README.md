@@ -44,12 +44,12 @@ SecurOS is an advanced operating system built upon the Arch platform, specifical
 
 <h1 align="center"> Showcase</h1>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PhilipPanda/SecurOS/main/img/showcase2.png">
+  <img src="https://raw.githubusercontent.com/PhilipPanda/SecurOS/main/img/Showcase1.png">
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PhilipPanda/SecurOS/main/img/showcase1.png">
+  <img src="https://raw.githubusercontent.com/PhilipPanda/SecurOS/main/img/Showcase2.png">
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/PhilipPanda/SecurOS/main/img/showcase3.png">
+  <img src="https://raw.githubusercontent.com/PhilipPanda/SecurOS/main/img/Showcase3.png">
 </p>
 
