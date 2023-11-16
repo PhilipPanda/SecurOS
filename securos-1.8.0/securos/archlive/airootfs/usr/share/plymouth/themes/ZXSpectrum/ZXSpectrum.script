@@ -1,0 +1,131 @@
+# ZX Spectrum animated Plymouth theme
+# By Alex "mr287cc" Tokmakov (wecleman@gmail.com)
+# Version 1.0
+# 15/04/23
+
+# Set BG color
+Window.SetBackgroundTopColor (0, 0, 0);
+Window.SetBackgroundBottomColor (0, 0, 0);
+
+
+# Vars
+
+progress = 1;
+
+numberofframes = 1;
+new_width = 0;
+new_height = 0;
+
+hard_width = 1920;
+hard_height = 1080;
+
+scr_width = Window.GetWidth();
+scr_height = Window.GetHeight();
+
+speccy_image = [];
+
+speccy_sprite = Sprite();
+
+# Set Animation Images Based On GetMode
+# Possible modes: boot  shutdown  reboot  updates  system-upgrade firmware-upgrade
+
+if ( Plymouth.GetMode () == "boot" )
+{
+
+  # Set shutdown animation
+
+  numberofframes = 32;
+
+  new_width = hard_width * (scr_height / hard_height);
+  new_height = hard_height * (new_width / hard_width);
+
+  for (i = 0; i < numberofframes; i++)
+  {
+    orig_image = Image("zxloading-" + i + ".png");
+    speccy_image[i] = orig_image.Scale(new_width,new_height);
+  }
+
+  # Center image
+  speccy_sprite.SetX(scr_width / 2 - new_width / 2);
+  speccy_sprite.SetY(scr_height / 2 - new_height / 2);
+
+}
+
+
+if ( Plymouth.GetMode () == "updates" )
+{
+
+  # Set update animation
+
+  numberofframes = 32;
+
+  new_width = hard_width * (scr_height / hard_height);
+  new_height = hard_height * (new_width / hard_width);
+
+  for (i = 0; i < numberofframes; i++)
+  {
+    orig_image = Image("zxloading-" + i + ".png");
+    speccy_image[i] = orig_image.Scale(new_width,new_height);
+  }
+
+  # Center image
+  speccy_sprite.SetX(scr_width / 2 - new_width / 2);
+  speccy_sprite.SetY(scr_height / 2 - new_height / 2);
+
+}
+
+
+if ( Plymouth.GetMode () == "reboot"  )
+{
+
+  # Set shutdown animation
+
+  numberofframes = 62;
+
+  new_width = hard_width * (scr_height / hard_height);
+  new_height = hard_height * (new_width / hard_width);
+
+  for (i = 0; i < numberofframes; i++)
+  {
+    orig_image = Image("zxreset-" + i + ".png");
+    speccy_image[i] = orig_image.Scale(new_width,new_height);
+  }
+
+  # Center image
+  speccy_sprite.SetX(scr_width / 2 - new_width / 2);
+  speccy_sprite.SetY(scr_height / 2 - new_height / 2);
+
+}
+
+
+if ( Plymouth.GetMode () == "shutdown"  )
+{
+
+  numberofframes = 62;
+
+  new_width = hard_width * (scr_height / hard_height);
+  new_height = hard_height * (new_width / hard_width);
+
+  for (i = 0; i < numberofframes; i++)
+  {
+    orig_image = Image("zxreset-" + i + ".png");
+    speccy_image[i] = orig_image.Scale(new_width,new_height);
+  }
+
+  # Center image
+  speccy_sprite.SetX(scr_width / 2 - new_width / 2);
+  speccy_sprite.SetY(scr_height / 2 - new_height / 2);
+
+}
+
+
+# This function gets called continuosly by Plymouth, up to 50 times a second
+
+fun refresh_callback ()
+{
+  speccy_sprite.SetImage(speccy_image[Math.Int(progress / 3) % numberofframes]);
+  progress++;
+}
+  
+Plymouth.SetRefreshFunction (refresh_callback);
+
