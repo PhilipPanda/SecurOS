@@ -44,18 +44,12 @@ A8: To update SecurOS, use the package manager for system updates. Open a termin
 
 A9: You can reset your password by booting into recovery mode.
 
-## Support and Community
-
 ### Q10: Where can I find more help and resources?
 
 A10: Currently your best bet is to contact me here ```contact@templeenterprise.com```
 
-## Other
+## Network
 
-### Q11: OMG SecurOS is so ugly theres no themes no icons WTF ?!!
+### Q11: How do i connect to the Internet?
 
-A11: SecurOS was made for security testing not made to look pretty, were not designers. However you can always download themes and icons on xfce4-look.org
-
-### Q12: So lagy and unoptimized you mf shitty developer.
-
-A12: SecurOS is in beta, relax.
+A11: To connect to the Internet, open your terminal and run the command ```iwctl```
