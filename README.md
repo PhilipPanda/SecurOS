@@ -5,7 +5,7 @@
 </p>
 
 <h2 align="center">
-  <a href="https://securos.org">Website</a> | <a href="https://templeenterprise.com">Our Company</a> | <a href="https://securos.org">Install</a>
+  <a href="https://securos.org">Website</a> | <a href="https://templeenterprise.com">Company</a> | <a href="https://securos.org">Install</a>
 </h2>
 
 -----
